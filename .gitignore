@@ -1,0 +1,13 @@
+\__pycache__
+\pytest_cache
+\.vscode
+.noseids
+app.log
+file.log
+file.txt
+fle.txt
+name.txt
+nosetests.xml
+notes.txt
+re.txt
+rep.txt
